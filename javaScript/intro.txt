@@ -1,0 +1,10 @@
+javascript can display data in different ways:
+-into a html element using .innerHTML
+-into the html output using document.write()
+-into an alert using window.alert()
+-into the console using console.log()
+
+How to Define a JavaScript Object
+-Using an Object Literal
+-Using the new Keyword
+-Using an Object Constructor
